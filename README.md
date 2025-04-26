@@ -4,7 +4,7 @@ MyeliMetric is an open-source toolkit, developed using the Python platform. It p
 
 🚀 Getting Started
 
-Option 1: Already have Python installed?
+Option 1: Already have Python installed? download 'To run using a pre-installed Python IDE.zip'
 
 Simply run the main.py file to launch the application.
 Before starting, make sure to read the Read_Me_First document included in the zipped folder.
@@ -20,7 +20,7 @@ No Python installed? No problem.
 Use the portable version (no installation required):
 Download Portable Version  📦  (Windows only)  from here https://uofi.box.com/s/501nt4ptrnje43bmial0r1jrwa31ndfx 
 All required dependencies are preloaded. Just unzip the folder and follow the instructions in the user manual, which is specifically tailored for the portable version.
-🎥 Don’t forget to watch the YouTube video tutorial for a step-by-step guide.
+🎥 Don’t forget to watch the YouTube video tutorial for a step-by-step guide to run it.
 
 
 
