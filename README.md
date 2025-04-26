@@ -1,5 +1,4 @@
-🧠 MyeliMetric: NeuroMyelin G-Ratio Analysis Toolkit
-MyeliMetric is an open-source toolkit built in Python that provides a streamlined, validated pipeline for post-segmentation analysis of the g-ratio—a vital metric for assessing myelin sheath thickness relative to axon diameter. Traditional g-ratio workflows often suffer from statistical inconsistencies and a lack of standardization, which can compromise scientific conclusions.
+🧠 MyeliMetric: It is an open-source toolkit built in Python that provides a streamlined, validated pipeline for post-segmentation analysis of the g-ratio—a vital metric for assessing myelin sheath thickness relative to axon diameter. Traditional g-ratio workflows often suffer from statistical inconsistencies and a lack of standardization, which can compromise scientific conclusions.
 
 Getting Started
 Already have Python installed?
