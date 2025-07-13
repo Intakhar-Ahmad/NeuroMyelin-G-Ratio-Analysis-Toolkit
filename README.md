@@ -1,18 +1,18 @@
-🧠 MyeliMetric:
+MyeliMetric:
 
 MyeliMetric is an open-source toolkit, developed using the Python platform. It provides a streamlined, validated pipeline for post-segmentation analysis of the g-ratio—a vital metric for assessing myelin sheath thickness relative to axon diameter. Traditional g-ratio workflows often suffer from statistical inconsistencies and a lack of standardization, which can compromise scientific conclusions.
 
-🚀 Getting Started
+Getting Started
 
-Option 1: Already have Python installed? download 'To run using a pre-installed Python IDE.zip'
+Option 1: Already have Python installed? Download 'Myelimetic_Scripts.zip'
 
-Simply run the main.py file to launch the application.
+Simply run the install_dependencies.py and then the main.py script to launch the application.
 Before starting, make sure to read the Read_Me_First document included in the zipped folder.
 You can also follow the detailed user manual.
 
 🎥 Video Tutorial:
 Watch the full walkthrough on YouTube:
-📺 https://www.youtube.com/watch?v=I3hD5SEuOUI
+https://www.youtube.com/watch?v=I3hD5SEuOUI
 
 Option 2: 
 No Python installed? No problem.
