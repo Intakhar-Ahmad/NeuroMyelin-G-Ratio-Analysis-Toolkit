@@ -16,9 +16,10 @@ https://www.youtube.com/watch?v=I3hD5SEuOUI
 
 **Option 2:** 
 No Python installed? No problem.
-
 **Portable (Windows Ver only) — No Installation Needed**: [Download the ZIP file📦](https://uofi.box.com/s/6479js3utghw4kz4iga1i1xdy2k2o5sr), **Portable Then unzip and run it following the instruction Manual.**
 **All dependencies are preloaded, and include an example dataset (`My_CTL`, `My_EXP`) plus subsequently generated data and folders. When you generate your data, the sample files will be overwritten (you’ll be asked for permission). It was tested on Windows 10/11 (64-bit).** 🎥 Don’t forget to watch the YouTube video tutorial for a step-by-step guide to run it.
 
 
+Option 3 — GraphPad Prism (no Python needed):
+If you prefer working in GraphPad Prism (v9+), we have provided a ready-to-use g-ratio analysis pipeline—download the Prism project files, open them in Prism, replace the demo tables with your data (match the example headers), run the saved analyses, and export figures as PNG/TIFF/PDF. 
 
