@@ -5,7 +5,6 @@ MyeliMetric is an open-source toolkit, developed using the Python platform. It p
 Getting Started
 
 Option 1: Already have Python installed? Download 'Myelimetic_Scripts.zip'
-
 Simply run the install_dependencies.py and then the main.py script to launch the application.
 Before starting, make sure to read the Read_Me_First document included in the zipped folder.
 You can also follow the detailed user manual.
