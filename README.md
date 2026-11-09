@@ -1,24 +1,67 @@
-MyeliMetric:
+MyeliMetric: Open-Source G-Ratio Analysis Toolkit
 
-MyeliMetric is an open-source toolkit, developed using the Python platform. It provides a streamlined, validated pipeline for post-segmentation analysis of the g-ratio—a vital metric for assessing myelin sheath thickness relative to axon diameter. Traditional g-ratio workflows often suffer from statistical inconsistencies and a lack of standardization, which can compromise scientific conclusions.
+Current Recommended Release: MyeliMetric V2.1
 
-Getting Started
+MyeliMetric is an open-source, Python-based toolkit for standardized post-segmentation analysis of the g-ratio, a widely used measure of myelin sheath thickness relative to axon diameter.
 
-Option 1: Already have Python installed? Download 'Myelimetic_Scripts.zip'
-Simply run the install_dependencies.py and then the main.py script to launch the application.
-Before starting, make sure to read the Read_Me_First document included in the zipped folder.
-You can also follow the detailed user manual.
+The toolkit simplifies quantitative axon–myelin analysis through automated data processing, customizable measurements, visualization, and statistical analysis.
 
-🎥 Video Tutorial:
-Watch the full walkthrough on YouTube:
-https://www.youtube.com/watch?v=I3hD5SEuOUI
+MyeliMetric has evolved from its original published version (V1) to V2 and the current V2.1, with improvements in analytical flexibility, usability, reproducibility, and statistical rigor.
 
-**Option 2:** 
-No Python installed? No problem.
-**Portable (Windows Ver only) — No Installation Needed**: [Download the 3 ZIP files📦](https://uofi.app.box.com/folder/348746175679), **Then unzip  (Portable Python, Scripts, and Data). First, run Thonny in the portable-Python folder and  then open the main.py file through Thonny stored in the Scripts folder**. Run it following the instruction Manual
-**All dependencies are preloaded, and include an example dataset (`My_CTL`, `My_EXP`) plus subsequently generated data and folders. When you generate your data, the sample files will be overwritten (you’ll be asked for permission). It was tested on Windows 10/11 (64-bit).** 🎥 Don’t forget to watch the YouTube video tutorial for a step-by-step guide to run it.
+MyeliMetric Versions
 
+V1 — Original Published Version (Legacy)
 
-Option 3: GraphPad Prism-no Python needed
-If you prefer working in GraphPad Prism (v9+), we have provided a ready-to-use g-ratio analysis pipeline—download the Prism project files, open them in Prism, replace the demo tables with your data (match the example headers), run the saved analyses, and export figures as PNG/TIFF/PDF. 
+MyeliMetric V1 is the original published toolkit, designed to simplify conventional g-ratio analysis through an automated and standardized workflow.
 
+It provides fundamental g-ratio measurements, data processing, and quantitative outputs.
+
+Recommended for: Reproducing analyses conducted using the original published version.
+
+Status: Legacy release.
+
+V2 — Enhanced Quantitative Analysis
+
+MyeliMetric V2 expanded the original toolkit by introducing improvements in processing flexibility, quality control, and data management.
+
+Key features:
+
+Adjustable g-ratio binning and measurement thresholds.
+
+Pooled-control binning options for comparisons.
+
+Improved Excel and CSV data export.
+
+Automated output organization.
+
+Activity logging and exclusion auditing.
+
+Simplified analysis workflow and improved usability.
+
+Recommended for: Researchers requiring flexible g-ratio quantification, customizable analysis settings, and expanded quality control.
+
+Status: Previous release.
+
+V2.1 — Current Recommended Version
+
+MyeliMetric V2.1 builds upon V2 and introduces an important improvement in statistical analysis: support for hierarchical experimental designs involving multiple axons, tissue sections, and animals.
+
+In typical myelin studies, multiple axons are measured from each tissue section, and several sections may originate from the same animal. These observations are not fully independent.
+
+Conventional analyses that treat individual axons as independent biological replicates can introduce pseudoreplication, underestimate uncertainty, and produce misleading statistical conclusions.
+
+V2.1 addresses this challenge by incorporating animal identity and section-level structure into the analysis workflow.
+
+Key improvements:
+
+Animal-level g-ratio analysis.
+
+Support for multiple sections and axons within each animal.
+
+Nested or hierarchical statistical analysis.
+
+Clear distinction between biological replicates and subsampled measurements.
+
+Improved reporting of experimental sample sizes.
+
+Integration with the established V2 quantification and quality-control workflow.
